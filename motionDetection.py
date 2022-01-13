@@ -17,7 +17,7 @@ ret, frame2 = cap.read()
 # frame2 = frame2[0:480,0:100]
 # print(frame1.shape)
 
-esik = 20
+esik = 30
 
 
 while cap.isOpened():
